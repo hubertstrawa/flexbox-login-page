@@ -148,6 +148,12 @@ h6 {
     text-decoration: none;
 }
 
+#showcase .secondary-btn {
+    width: 60%;
+    margin: auto;
+}
+
+
 /* Button */ 
 .primary-btn {
     padding: 0.7rem 1rem;
