@@ -134,11 +134,6 @@ h6 {
     margin-bottom: 1.5rem;
 }
 
-#showcase .secondary-btn {
-    width: 60%;
-    margin: auto;
-}
-
 /* Footer */ 
 #main-footer {
     color: #ccc;
@@ -229,4 +224,20 @@ h6 {
     #main-footer {
         padding-top: 1rem;
     }
+
+    #signin .secondary-btn,
+    .or,
+    .links {
+    width: 80%;
+    }
+
+    #signin .logo img {
+        width: 250px;
+    }
+
+    #signin form {
+        width: 80%;
+        padding-bottom: 1.8rem;
+    }
+
 }
