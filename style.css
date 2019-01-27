@@ -233,11 +233,16 @@ h6 {
 
     #signin .logo img {
         width: 250px;
+        margin-top: -1.5rem;
     }
 
     #signin form {
         width: 80%;
         padding-bottom: 1.8rem;
+    }
+
+    #main-footer p {
+        margin-bottom: .2rem;
     }
 
 }
